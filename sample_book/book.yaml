@@ -1,0 +1,34 @@
+# The Friendly AI Field Guide — sample project
+# Every setting below is optional except title and author.
+title: The Friendly AI Field Guide
+subtitle: A calm, practical start with everyday AI
+author: Dylan Asdale
+publisher: ASDALE DYNAMICS, LLC
+language: en-US
+edition: First edition
+copyright_year: 2026
+copyright_holder: ASDALE DYNAMICS, LLC
+description: >-
+  A warm, plainly written field guide for anyone who feels behind on AI.
+  Learn what these tools can and cannot do, how to ask better questions,
+  and how to build a small, safe routine that saves real time. No jargon,
+  no hype, no medical advice.
+disclaimer: >-
+  This book is for general education only. It is not legal, financial, or
+  medical advice, and it does not replace guidance from a qualified
+  professional. Product features and prices change; verify details before
+  you rely on them.
+keywords:
+  - AI for beginners
+  - artificial intelligence
+  - prompt writing
+  - everyday AI
+  - practical AI guide
+trim: 6x9
+paper: cream
+chapters: chapters
+cover:
+  background: "#17324D"
+  accent: "#E3B563"
+  text: "#FFF9EF"
+  tagline: Plain English. Small steps. Real results.

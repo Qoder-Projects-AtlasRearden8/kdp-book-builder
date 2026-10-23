@@ -1,0 +1,26 @@
+# Local build output
+dist/
+build/
+*.egg-info/
+
+# Local task metadata
+.task
+.wheel-build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+
+# Local environment files and secrets (never commit these)
+.env
+.env.*
