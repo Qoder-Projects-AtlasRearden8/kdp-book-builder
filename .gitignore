@@ -1,26 +1,25 @@
-# Local build output
-dist/
-build/
-*.egg-info/
-
-# Local task metadata
-.task
-.wheel-build/
-
-# Virtual environments
-.venv/
-venv/
-
-# Python caches
-__pycache__/
-.pytest_cache/
-*.py[cod]
 
 # Editors and operating-system files
-.vscode/
-.idea/
-.DS_Store
-
+# Local build output
 # Local environment files and secrets (never commit these)
+# Local task metadata
+# Python caches
+# Virtual environments
+*.egg-info/
+*.py[cod]
+*.pyc
+.DS_Store
 .env
 .env.*
+.idea/
+.pytest_cache/
+.task
+.venv/
+.vscode/
+.wheel-build/
+__pycache__/
+build/
+dist/
+dist/*.tmp
+node_modules/
+venv/
